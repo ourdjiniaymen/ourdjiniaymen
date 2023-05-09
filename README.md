@@ -15,5 +15,6 @@ I'm always looking to improve my skills and knowledge, and currently, I'm focuse
 If you'd like to get in touch, feel free to send me a message on LinkedIn or Twitter:
 
 - LinkedIn: [linkedin.com/in/ourdjiniaymen/](https://www.linkedin.com/in/aymen-ourdjini-581b14172/)
+- Email : aymen.esi.2016@gmail.com
  
 Thanks for visiting my profile! 👀
