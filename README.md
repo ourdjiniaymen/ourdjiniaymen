@@ -4,7 +4,7 @@ I'm a software Engineer, with a passion for web development.
 
 ## 🔭 What I'm working on
 
-I'm currently learning various front-end and back-end web development technologies, including HTML, CSS, JavaScript, React, Node.js, and MongoDB.
+I'm currently learning various front-end and back-end web development technologies, including Django, React and MongoDB.
 
 ## 🌱 What I'm currently learning
 
